@@ -288,7 +288,6 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  
   z-index: 4;
   transition: var(--transition);
   background-color: #d7282f;
@@ -779,7 +778,7 @@ body {
 }
 
 .footer .logo {
-  color: var(--prussian-blue);
+  color: #ffffff;
   font-weight: var(--fw-800);
   font-size: 3.2rem;
 }
